@@ -1,6 +1,4 @@
-// Wrap all code that interacts with the DOM in a call to jQuery to ensure that
-// the code isn't run until the browser has finished rendering all the elements
-// in the html.
+// This function only runs once all of the HTML elements are in place.
 $(function () {
   
   // Displays today's date as Monday, July 10, 2023 (example)
