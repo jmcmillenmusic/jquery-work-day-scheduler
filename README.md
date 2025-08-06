@@ -2,7 +2,7 @@
 
 ## Description
 
-After understanding jQuery and seeing how so much faster I can write JavaScript code, I decided to dig into jQuery more to see its full potential. The problem was that I could easily lose track of time, so I created a workday scheudler to keep track of my schedule during the workday.
+After understanding jQuery and seeing how so much faster I can write JavaScript code, I decided to dig into jQuery more to see its full potential. The problem was that I could easily lose track of time, so I created a workday scheduler to keep track of my schedule during the workday.
 
 ## Installation
 
